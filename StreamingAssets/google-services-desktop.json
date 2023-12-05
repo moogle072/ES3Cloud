@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344100144338",
+    "project_id": "booking-bc300",
+    "storage_bucket": "booking-bc300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344100144338:android:e2e0e26782b9f5a95b590b",
+        "android_client_info": {
+          "package_name": "com.VisualpanoramaCompany.booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOua8NWO0HRNyGGmj7r13j4gh07VZ0-Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
